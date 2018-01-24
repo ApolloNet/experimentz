@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Freaks",
+    "year": "1932",
+    "directors": [
+      "Tod Browning"
+    ],
+    "stars": [
+      "Wallace Ford",
+      "Leila Hyams",
+      "Olga Baclanova"
+    ],
+    "url": "https://www.youtube.com/embed/XzF6k5P7uDo"
+  },
+  {
+    "id": "2",
+    "title": "Le Mécano de la « General »",
+    "year": "1926",
+    "directors": [
+      "Buster Keaton",
+      "Clyde Bruckman"
+    ],
+    "stars": [
+      "Buster Keaton",
+      "Marion Mack",
+      "Glen Cavender"
+    ],
+    "url": "https://www.youtube.com/embed/x3HioYRd0Ck"
+  },
+  {
+    "id": "3",
+    "title": "The Little Shop of Horrors",
+    "year": "1960",
+    "directors": [
+      "Roger Corman"
+    ],
+    "stars": [
+      "Jonathan Haze",
+      "Jackie Joseph",
+      "Mel Welles"
+    ],
+    "url": "https://www.youtube.com/embed/xaFTZRTDOJ8"
+  },
+  {
+    "id": "4",
+    "title": "Le Voyage dans la Lune",
+    "year": "1902",
+    "directors": [
+      "Georges Méliès"
+    ],
+    "stars": [
+      "Georges Méliès"
+    ],
+    "url": "https://www.youtube.com/embed/lUAD4lKNDI8"
+  }
+]

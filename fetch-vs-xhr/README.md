@@ -1,0 +1,1 @@
+Get a Json file asynchronously via Fetch vx XHR.
