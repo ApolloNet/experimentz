@@ -17,8 +17,8 @@ go()
  */
 async function handleThings (settings, things, callback) {
   const promise = Promise.resolve(settings)
-  for (let i = 0; i < things.length; ++i) {
-    await promise.then(settings => callback(settings, things[i]))
+  for (const thing of things) {
+    await promise.then(settings => callback(settings, thing))
   }
   promise.catch(err => console.error(err))
   return promise
