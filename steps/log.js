@@ -1,7 +1,7 @@
 'use strict'
 
 function log (settings) {
-  console.log(settings.foo)
+  console.log(settings)
   return settings
 }
 

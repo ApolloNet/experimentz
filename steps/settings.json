@@ -1,6 +1,6 @@
 {
   "steps": {
-    "First step": ["rand"],
+    "First step": ["lorem", "rand"],
     "Second one": ["log"],
     "Fake third": ["invalid"]
   }
